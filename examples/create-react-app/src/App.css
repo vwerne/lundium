@@ -1,0 +1,13 @@
+ul {
+	list-style-type: none;
+}
+
+.text {
+	border: 2px solid transparent;
+	background-color: #ffffff;
+	border-radius: 5px;
+}
+
+.completed {
+	border-color: #12c800;
+}

@@ -1,0 +1,41 @@
+{
+	"name": "create-react-app",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@lundium/theme-basic": "^0.0.1-alpha.3",
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.3.2",
+		"@testing-library/user-event": "^7.1.2",
+		"lundium": "^0.0.1-alpha.0",
+		"ramda": "^0.27.0",
+		"ramda-extension": "^0.10.1",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"react-scripts": "3.3.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"eslint-plugin-flowtype": "^4.6.0"
+	}
+}
